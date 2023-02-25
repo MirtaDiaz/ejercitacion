@@ -1,0 +1,49 @@
+*{
+    color: blue;
+}
+p, span {
+    color: red;
+    width: 300px;
+}
+/**
+este es un comentario dentro de un documento css
+*/
+h1{ 
+    font-family: 'Phudu', cursive;   
+    border: 3px solid rgb(255, 157, 0);
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    /**padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 25px; */
+    padding: 20px 25px 20px 25px;
+    font-weight: bold;
+    color: rgb(133, 20, 220);
+}
+section{    
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;     
+}
+#mi_parrafo{
+    color: greenyellow;
+    font-size: 23px;
+    border: 2px solid blueviolet;
+}
+.estaesmiclase{
+    font-weight: bold;
+    color: aqua;
+}
+/**
+section h1{
+    font-weight: 900;
+}
+*/
+/** este es un comentario de las preguntas y respuestas que no vi en el vido pero esta es la formula 
+
+body {background-color: black;}
+*/
